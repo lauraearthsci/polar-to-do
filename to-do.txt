@@ -1,0 +1,5 @@
+1. Histograms on everything
+2. Medians on Histograms
+3. decide on plots
+4. write it up
+5. Code on github
